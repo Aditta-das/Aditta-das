@@ -10,31 +10,32 @@
 
 ### myProfile.py
 
-```python:
+~~~~python
 profile = {
     'pronouns': 'he / him',
-    'University': 'Noakhali Science and Technology University',
-    'Education': {
+    'university': 'Noakhali Science and Technology University',
+    'education': {
         'MSc': 'Applied Mathematics',
         'BSc': 'Applied Mathematics',
     },
     'language': ['Python', 'C++', 'Fortran', 'Matlab'],
     'technologies': {
-        'Machine Learning': ['Pytorch', 'Scikit-learn', 'pandas', 'numpy', 'opencv', 'NLTK'],
+        'DataScience': ['Pytorch', 'Scikit-learn', 'pandas', 'numpy', 'opencv', 'NLTK'],
         'BackEnd': ['Django', 'Flask'],
-        'FrrontEnd': ['HTML', 'CSS', 'bootstrap'],
+        'FrontEnd': ['HTML', 'CSS', 'bootstrap'],
         'Database': ['SQL', 'SQLite'],
     },
-    'Experience': {
-        'Pioneer Alpha': 'Internship on ML',
+    'experience': {
+        'PioneerAlpha': 'Internship on ML',
         'SEBPO': 'Creative Developer Fulltime'
     },
-    'Achivement': {
+    'achivement': {
         'Competition': 'Kaggle Competition 3rd position',
         'Campus': 'Ex Co-president Math Club',
-    }
-    'Certificate': {
-        'Coursera': ['SQL for Data Science', 'Data Visualization with python', 'Deep Neural network with pytorch', 'Getting Start with GO'],
-    }
+    },
+    'certificate': {
+        'Coursera': ['SQL for Data Science', 'Data Visualization with python', 
+                    'Deep Neural network with pytorch', 'Getting Start with GO'],
+    },
 }
-```
+~~~~
