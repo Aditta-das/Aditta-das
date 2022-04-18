@@ -24,6 +24,7 @@ profile = {
         'BackEnd': ['Django', 'Flask'],
         'FrontEnd': ['HTML', 'CSS', 'bootstrap'],
         'Database': ['SQL', 'SQLite'],
+        'Scrapping': ['Scrapy', 'BS4', 'Selenium', 'Helium'], 
     },
     'experience': {
         'PioneerAlpha': 'Internship on ML',
