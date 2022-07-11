@@ -1,7 +1,5 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Aditta Das Nishad | ML Enthusiast
-~~~html
-<h1>hello</h1>
-~~~
+<center>Centered text</center>
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/notebook/light)
