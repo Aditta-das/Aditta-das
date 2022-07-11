@@ -1,15 +1,11 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Aditta Das Nishad | ML Enthusiast
 
 <p align="center">
-    center
-</p>
-
-
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/discussion/light)
-
+</p>
 
 
 [![Linkedin: aditta](https://img.shields.io/badge/-aditta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/aditta-das/)](https://www.linkedin.com/in/aditta-das/)
