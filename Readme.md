@@ -46,7 +46,7 @@ profile = {
     },
     'certificate': {
         'Coursera': ['SQL for Data Science', 'Data Visualization with python', 
-                    'Deep Neural network with pytorch', 'Getting Start with GO'],
+                    'Deep Neural network with pytorch', 'Getting Start with GO', 'Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning'],
     },
 }
 ~~~~
