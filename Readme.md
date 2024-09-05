@@ -1,6 +1,6 @@
 <h2><p align="center">
     Hi there 👋 Welcome to my GitHub! I'm Aditta Das Nishad | ML Enthusiast | Learning CyberSecurity
-</p><img src="https://tryhackme-badges.s3.amazonaws.com/Adittadas.png" alt="TryHackMe"></h2>    
+</p><script src="https://tryhackme.com/badge/3427818"></script></h2>    
     
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/dataset/light)
