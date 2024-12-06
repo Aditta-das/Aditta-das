@@ -2,7 +2,7 @@
     Hi there 👋 Welcome to my GitHub! I'm Aditta Das Nishad | ML Enthusiast | Learning CyberSecurity
 </p></h2>    
 
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=18BD10&center=true&vCenter=true&multiline=true&width=500&height=150&lines=%24+rlwrap+nc+-nlvp+9001;Listening+on+0.0.0.0+9001;root%40root+.%2FAutomate.sh;-----------------------Hacked------------------------" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=18BD10&center=true&vCenter=true&multiline=true&width=500&height=150&lines=%24+rlwrap+nc+-nlvp+9001;Listening+on+0.0.0.0+9001;root%40root+.%2FAutomate.sh;-----------------------THM{D0n't_Share_4nything_0nline}------------------------" alt="Typing SVG" /></a>
 
 [![Linkedin: aditta](https://img.shields.io/badge/-aditta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/aditta-das/)](https://www.linkedin.com/in/aditta-das/)
 [![Leetcode: aditta](https://img.shields.io/badge/-aditta-yellow?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/Aditta_das/)](https://leetcode.com/Aditta_das/)
