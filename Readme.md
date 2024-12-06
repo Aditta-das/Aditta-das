@@ -2,10 +2,7 @@
     Hi there 👋 Welcome to my GitHub! I'm Aditta Das Nishad | ML Enthusiast | Learning CyberSecurity
 </p></h2>    
     
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adinishad/discussion/light)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=18BD10&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%24+rlwrap+nc+-nlvp+9001;Listening+on+0.0.0.0+9001;root%40root+.%2FAutomate.sh;-----------------------Hacked------------------------)](https://git.io/typing-svg)
 
 
 
