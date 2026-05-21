@@ -11,6 +11,10 @@
 [![Google-Drive: aditta](https://img.shields.io/badge/-resume-red?style=flat-square&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/1nqxAPXlnOQBvwn6n7M61tWJigmTxCJfK/view)](https://drive.google.com/file/d/1pjFrGlEWFYxDXrEJ4fd-AGTbYy8elQAt/view?usp=sharing)
 ![](https://visitor-badge.glitch.me/badge?page_id=Aditta-das.Aditta-das)
 
+
+[![Aditta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditta-das&theme=dracula)](https://github.com/aditta-das/github-readme-activity-graph)
+
+
 ### myProfile.py
 
 ~~~~python
